@@ -1,12 +1,11 @@
-**🏋️‍♀️ Fitness Club Website**
+## 🏋️‍♀️ Fitness Club Website
 
 A responsive fitness club website built using ReactJS. This project showcases a modern landing page for a gym or fitness center with sections like services, trainers, and contact info.
 
-**🌐 Live Demo**
+## 🌐 [Live Demo](https://fitness-club-raect-manaswini-sasmals-projects.vercel.app/)
 
-👉 View Live Website  --  https://fitness-club-raect-manaswini-sasmals-projects.vercel.app/
 
-**📌 Features**
+## 📌 Features
 
 Responsive design (Mobile & Desktop friendly)
 
@@ -20,7 +19,7 @@ Contact section / Footer
 
 Smooth UI and clean design
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
 ReactJS – Frontend library
 
@@ -28,7 +27,7 @@ CSS – Styling the components
 
 React Icons – For icons
 
-**📂 Project Setup**
+## 📂 Project Setup
 
 Follow these steps to run the project locally:
 
@@ -50,7 +49,7 @@ npm start
 
 **Open http://localhost:3000/ in your browser.**
 
-**🚀 Deployment**
+## 🚀 Deployment
 
 This project is deployed on Vercel
 🔗[Live Demo](https://fitness-club-raect-manaswini-sasmals-projects.vercel.app/)
